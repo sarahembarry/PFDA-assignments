@@ -111,3 +111,77 @@
 - **Source**: [w3schools.com](https://www.w3schools.com/)
 - **Date**: 2022
 - **Link**: [Matplotlib Pie Charts](https://www.w3schools.com/python/matplotlib_pie_charts.asp)
+
+
+
+
+### assignment_6_Weather,ipynb
+**Description**:Pandas read_csv: low_memory
+- **Source**: [https://www.geeksforgeeks.org/](geeksforgeeks.org)
+- **Date**: 2023
+- **Link**: [Pandas read_csv: low_memory and dtype options](https://www.geeksforgeeks.org/pandas-read_csv-low_memory-and-dtype-options/)
+
+**Description**:Skip rows during csv import pandas
+- **Source**: [https://stackoverflow.com/](stackoverflow.com)
+- **Date**: 2014
+- **Link**: [Skip rows during csv import pandas](https://stackoverflow.com/questions/20637439/skip-rows-during-csv-import-pandas)
+
+**Description**:How to Specify Format in pandas.to_datetime
+- **Source**: [https://www.statology.org/](statology.org/)
+- **Date**: 2023
+- **Link**: [How to Specify Format in pandas.to_datetime](https://www.statology.org/pandas-to-datetime-format/)
+
+**Description**:Matplotlib Plotting
+- **Source**: [w3schools.com](https://www.w3schools.com/)
+- **Date**: 2024
+- **Link**: [Matplotlib Plotting](https://www.w3schools.com/python/matplotlib_plotting.asp)
+
+**Description**:Using 'groupby' and plotting daily mean with Pandas
+- **Source**: [pandas.pydata.org](https://pandas.pydata.org/)
+- **Date**: 2024
+- **Link**: [How to handle time series data with ease?](https://pandas.pydata.org/pandas-docs/version/1.3.1/getting_started/intro_tutorials/09_timeseries.html)
+
+**Description**:How to Plot a Pandas Series
+- **Source**: [https://www.statology.org/](statology.org/)
+- **Date**: 2023
+- **Link**: [How to Plot a Pandas Series (With Examples)](https://www.statology.org/plot-pandas-series/)
+
+**Description**:Pandas resample temprature mean example
+- **Source**: [datacamp.com](https://www.datacamp.com/)
+- **Date**: 2024
+- **Link**: [Pandas Resample With resample() and asfreq()](https://www.datacamp.com/tutorial/pandas-resample-asfreq)
+
+**Description**:Pandas resample temprature mean example
+- **Source**: [datacamp.com](https://www.datacamp.com/)
+- **Date**: 2024
+- **Link**: [Pandas Resample With resample() and asfreq()](https://www.datacamp.com/tutorial/pandas-resample-asfreq)
+
+**Description**:pandas.to_numeric method
+- **Source**: [https://www.geeksforgeeks.org/](geeksforgeeks.org)
+- **Date**: 2018
+- **Link**: [Python | pandas.to_numeric method](https://www.geeksforgeeks.org/python-pandas-to_numeric-method/)
+
+**Description**:Pandas: How to Replace Zero with NaN
+- **Source**: [statology.org](https://www.statology.org/)
+- **Date**: 2022
+- **Link**: [PPandas: How to Replace Zero with NaN](https://www.statology.org/pandas-replace-0-with-nan/)
+
+**Description**:Pandas DataFrame interpolate() Method
+- **Source**: [https://www.geeksforgeeks.org/](geeksforgeeks.org)
+- **Date**: 2024
+- **Link**: [Pandas DataFrame interpolate() Method](https://www.geeksforgeeks.org/pandas-dataframe-interpolate/)
+
+**Description**:Pandas – Rolling mean by time interval
+- **Source**: [https://www.geeksforgeeks.org/](geeksforgeeks.org)
+- **Date**: 2021
+- **Link**: [Pandas – Rolling mean by time interval](https://www.geeksforgeeks.org/pandas-rolling-mean-by-time-interval/)
+
+**Description**:Resampler.max
+- **Source**: [pandas.pydata.org](https://pandas.pydata.org/)
+- **Date**: 2024
+- **Link**: [pandas.core.resample.Resampler.max](https://pandas.pydata.org/docs/reference/api/pandas.core.resample.Resampler.max.html)
+
+**Description**:pandas.DataFrame.set_index
+- **Source**: [pandas.pydata.org](https://pandas.pydata.org/)
+- **Date**: 2024
+- **Link**: [pandas.DataFrame.set_index](https://pandas.pydata.org/pandas-docs/version/2.0/reference/api/pandas.DataFrame.set_index.html)
