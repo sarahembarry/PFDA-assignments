@@ -185,3 +185,13 @@
 - **Source**: [pandas.pydata.org](https://pandas.pydata.org/)
 - **Date**: 2024
 - **Link**: [pandas.DataFrame.set_index](https://pandas.pydata.org/pandas-docs/version/2.0/reference/api/pandas.DataFrame.set_index.html)
+
+**Description**:matplotlib.legend
+- **Source**: [matplotlib.org/](https://matplotlib.org/)
+- **Date**: 2024
+- **Link**: [matplotlib.legend](https://matplotlib.org/stable/api/legend_api.html)
+
+**Description**:matplotlib.pyplot.grid
+- **Source**: [matplotlib.org/](https://matplotlib.org/)
+- **Date**: 2024
+- **Link**: [matplotlib.pyplot.grid](https://matplotlib.org/2.1.2/api/_as_gen/matplotlib.pyplot.grid.html)
