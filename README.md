@@ -6,8 +6,19 @@
 
 ## Assignment Descriptions
 
-### Assignment 2: assignment2-weather.ipynb 
-**Description**: This Jupyter notebook, when run, will import a CSV file, extract two columns, and use these columns to create a line graph.
+### Assignment 2: assignment2-weather.ipynb
+**Description**: This Jupyter notebook imports a CSV file, extracts the necessary columns, and generates a line graph displaying temperature over time.
+
+### Assignment 3: assignment03-pie.ipynb
+**Description**: This notebook reads a CSV file, extracts email domains, and generates a pie chart showing the distribution of email domains. Customizations are applied to make the chart visually appealing.
+
+### Assignment 5: assignment_5_risk.ipynb
+**Description**: This Python notebook simulates battle rounds from the game "Risk" and visualizes the results. It includes both individual battle rounds and extended simulations, using statistical methods to determine attack and defense outcomes.
+
+### Assignment 6: assignment_6_Weather.ipynb
+**Description**: This notebook loads climate data, analyzes temperature and windspeed metrics, and creates visualizations such as daily and monthly averages, as well as rolling means and daily maximums. Special handling is applied to handle missing windspeed data.
+
+---
 
 
 
@@ -35,6 +46,18 @@
 - **Source**: [www.geeksforgeeks.org](https://www.geeksforgeeks.org/)
 - **Date**: 2024
 - **Link**: [Customizing Styles in Matplotlib](https://www.geeksforgeeks.org/python-matplotlib-an-overview/)
+
+
+**Description**: Python matplotlib.dates.DateFormatter() Examples
+- **Source**: [programcreek.com](https://www.programcreek.com/)
+- **Date**: 2024
+- **Link**: [Python matplotlib.dates.DateFormatter() Examples](https://www.programcreek.com/python/example/61483/matplotlib.dates.DateFormatter)
+
+**Description**: Aligning rotated xticklabels with their respective xticks
+- **Source**: [stackoverflow.com/](https://stackoverflow.com/)
+- **Date**: 2023
+- **Link**: [Aligning rotated xticklabels with their respective xticks](https://stackoverflow.com/questions/14852821/aligning-rotated-xticklabels-with-their-respective-xticks)
+
 
 
 
