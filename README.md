@@ -219,6 +219,11 @@
 - **Link**: [Pandas DataFrame dropna() Method](https://www.w3schools.com/python/pandas/ref_df_dropna.asp)
 
 **Description**: What Are Python Raw Strings?
-- **Source**: [w3schools.com](https://realpython.com/)
+- **Source**: [realpython.com](https://realpython.com/)
 - **Date**: 2024
 - **Link**: [What Are Python Raw Strings?](https://realpython.com/python-raw-strings/)
+
+**Description**: Pandas DataFrame copy() Method
+- **Source**: [w3schools.com](https://www.w3schools.com/)
+- **Date**: 2024
+- **Link**: [Pandas DataFrame copy() Method](https://realpython.com/python-raw-strings/)
