@@ -10,19 +10,15 @@
 **Description**: This Jupyter notebook imports a CSV file, extracts the necessary columns, and generates a line graph displaying temperature over time.
 
 ### Assignment 3: assignment03-pie.ipynb
-**Description**: This notebook reads a CSV file, extracts email domains, and generates a pie chart showing the distribution of email domains. Customizations are applied to make the chart visually appealing.
+**Description**: This notebook reads a CSV file, extracts email domains, and generates a pie chart showing the distribution of email domains. 
 
 ### Assignment 5: assignment_5_risk.ipynb
-**Description**: This Python notebook simulates battle rounds from the game "Risk" and visualizes the results. It includes both individual battle rounds and extended simulations, using statistical methods to determine attack and defense outcomes.
+**Description**: This Python notebook simulates battle rounds from the game "Risk" and visualizes the results.
 
 ### Assignment 6: assignment_6_Weather.ipynb
-**Description**: This notebook loads climate data, analyzes temperature and windspeed metrics, and creates visualizations such as daily and monthly averages, as well as rolling means and daily maximums. Special handling is applied to handle missing windspeed data.
+**Description**: This notebook loads climate data, analyzes temperature and windspeed metrics, and creates visualizations such as daily and monthly averages, as well as rolling means and daily maximums.
 
 ---
-
-
-
-
 
 ## Credits and References
 
@@ -206,3 +202,23 @@
 - **Source**: [matplotlib.org/](https://matplotlib.org/)
 - **Date**: 2024
 - **Link**: [matplotlib.pyplot.grid](https://matplotlib.org/2.1.2/api/_as_gen/matplotlib.pyplot.grid.html)
+
+**Description**: A Guide to R Regular Expressions
+- **Source**: [datacamp.com](www.datacamp.com)
+- **Date**: 2022
+- **Link**: [A Guide to R Regular Expressions](https://www.datacamp.com/tutorial/regex-r-regular-expressions-guide)
+
+**Description**: Replace values in Pandas dataframe using regex
+- **Source**: [geeksforgeeks.org](https://www.geeksforgeeks.org/)
+- **Date**: 2023
+- **Link**: [Replace values in Pandas dataframe using regex](https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/)
+
+**Description**: Pandas DataFrame dropna() Method
+- **Source**: [w3schools.com](https://www.w3schools.com/)
+- **Date**: 2024
+- **Link**: [Pandas DataFrame dropna() Method](https://www.w3schools.com/python/pandas/ref_df_dropna.asp)
+
+**Description**: What Are Python Raw Strings?
+- **Source**: [w3schools.com](https://realpython.com/)
+- **Date**: 2024
+- **Link**: [What Are Python Raw Strings?](https://realpython.com/python-raw-strings/)
