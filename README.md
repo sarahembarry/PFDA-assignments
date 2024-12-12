@@ -1,7 +1,7 @@
 # PFDA-assignments
 ## Table of Contents:
 1. [Assignment Descriptions](#assignment-descriptions)
-2. [Credits and References](#credits-and-references)
+2. [References](#references)
 
 
 ## Assignment Descriptions
@@ -20,7 +20,7 @@
 
 ---
 
-## Credits and References
+## References
 
 ### assignment2-weather.ipynb 
 **Description**:How to read a CSV from a URL using Pandas?
@@ -123,6 +123,16 @@
 - **Source**: [w3schools.com](https://www.w3schools.com/python/)
 - **Date**: 2022
 - **Link**: [The range() Function](https://www.w3schools.com/python/gloss_python_for_range.asp)
+
+**Description**: Python range() function
+- **Source**: [geeksforgeeks.org](https://www.geeksforgeeks.org/)
+- **Date**: 2024
+- **Link**: [Python range() function](https://www.geeksforgeeks.org/python-range-function/)
+
+**Description**: numpy.cumsum() in Python
+- **Source**: [geeksforgeeks.org](https://www.geeksforgeeks.org/)
+- **Date**: 2024
+- **Link**: [numpy.cumsum() in Python](https://www.geeksforgeeks.org/numpy-cumsum-in-python/)
 
 
 
