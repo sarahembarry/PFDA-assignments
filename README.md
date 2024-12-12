@@ -87,7 +87,7 @@
 - **Link**: [How to Create Stunning Matplotlib Pie Charts: A Comprehensive Guide](https://how2matplotlib.com/matplotlib-pie-chart.html)
 
 
-### assignment_5_risk,ipynb
+### assignment_5_risk.ipynb
 **Description**: Risk simulator in Python
 - **Source**: [hattoPascal via GitHub](https://github.com/attoPascal)
 - **Date**: 2014
@@ -136,7 +136,7 @@
 
 
 
-### assignment_6_Weather,ipynb
+### assignment_6_Weather.ipynb
 **Description**: Pandas read_csv: low_memory
 - **Source**: [geeksforgeeks.org](https://www.geeksforgeeks.org/)
 - **Date**: 2023
